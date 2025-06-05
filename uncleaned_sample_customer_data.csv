@@ -1,0 +1,26 @@
+Customer_ID,Age,Gender,Product_Category,Purchase_Amount,Purchase_Date
+1 ,56,F ,Books ,111.94,2023-01-01 
+2 ,46,nan ,Books ,947.98,2023-01-08 
+3 ,32,F ,nan ,606.96,2023-01-15 
+4 ,60,F ,Clothing ,446.87,2023-01-22 
+5 ,25,F ,Clothing ,114.37,nan 
+6 ,38,M ,Home & Kitchen ,307.8,2023-02-05 
+7 ,56,M ,Clothing ,316.92,2023-02-12 
+8 ,36,F ,Home & Kitchen ,714.94,nan 
+9 ,40,F ,Books ,649.0,2023-02-26 
+10 ,28,F ,Home & Kitchen ,849.88,2023-03-05 
+11 ,28,M ,Books ,256.03,2023-03-12 
+12 ,41,F ,Books ,451.95,2023-03-19 
+13 ,53,M ,Electronics ,264.01,2023-03-26 
+14 ,57,M ,Home & Kitchen ,779.83,2023-04-02 
+Unknown ,41,M ,Electronics ,482.64,2023-04-09 
+16 ,20,M ,Home & Kitchen ,287.15,2023-04-16 
+17 ,39,nan ,Home & Kitchen ,610.93,2023-04-23 
+18 ,19,F ,nan ,128.18,2023-04-30 
+19 ,41,F ,Electronics ,858.06,2023-05-07 
+20 ,61,F ,Home & Kitchen ,504.78,2023-05-14 
+19 ,41,F ,Electronics ,858.06,2023-05-07 
+3 ,32,F ,nan ,606.96,2023-01-15 
+9 ,40,F ,Books ,649.0,2023-02-26 
+5 ,25,F ,Clothing ,114.37,nan 
+18 ,19,F ,nan ,128.18,2023-04-30 
